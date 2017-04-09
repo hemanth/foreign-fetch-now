@@ -1,0 +1,33 @@
+{
+  "name": "foreign-fetch-now",
+  "version": "0.0.0",
+  "description": "Foreign fetch now",
+  "license": "MIT",
+  "repository": "hemanth/foreign-fetch-now",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+   "start": "node index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "foreign-fetch-middleware": "^1.0.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+  },
+  "xo": {
+    "esnext": true
+  }
+}
